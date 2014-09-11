@@ -1,0 +1,7 @@
+SELECT
+	U.NUM
+	, U.NAME
+FROM
+	USERS U
+WHERE
+	U.NUM = /* num */1
